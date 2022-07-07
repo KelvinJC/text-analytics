@@ -29,7 +29,7 @@
 ## Dashboard
 ![](images/dashboard.jpg)
 
-### Tools and Libraries:
+### Tools and Libraries: 
 * Numpy
 * Pandas
 * Matplotlib
