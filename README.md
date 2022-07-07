@@ -1,9 +1,9 @@
 # Whatsapp-chat-analysis
-## A case study of Text analysis and data transformation.
+## A case study on text processing and data transformation.
 
 ### My decision to embark on this project was informed by the vital role text plays in business organisations. It serves as the medium for storing contractual obligations, invoices, reports, logs and many other mission-critical artifacts.  
 
-### I chose the analysis of a messages sent betwee n users of Whatsapp, an extremely popular social media platform. The objective was to gain insight on the growth and churn rate of a group. 
+### I chose the analysis of messages sent between users of Whatsapp, an extremely popular social media platform. The objective was to gain insight on the growth and churn rate of a group. 
 
 ### This project included steps in data transformation involving: 
 - Sourcing unstructured data in the form of social media chat messages, 
