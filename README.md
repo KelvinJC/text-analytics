@@ -30,6 +30,7 @@
 ![](images/dashboard.jpg)
 
 ### Tools and Libraries: 
+* Jupyter Notebook
 * Numpy
 * Pandas
 * Matplotlib
