@@ -36,4 +36,5 @@
 * Regex
 * MS Excel
 
-
+## NB
+As can be proven by a cursory look at the notebook and dashboard, I took great care to preserve users' personal data (such as phone numbers) from being displayed. 
