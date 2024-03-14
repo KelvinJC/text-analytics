@@ -1,4 +1,4 @@
-# Whatsapp-chat-analysis
+# Text analytics
 ## A case study on text processing and data transformation.
 
 ### My decision to embark on this project was informed by the vital role text plays in business organisations. It serves as the medium for storing contractual obligations, invoices, reports, logs and many other mission-critical artifacts.  
